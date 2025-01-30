@@ -20,20 +20,20 @@ Additionally, some variables contain:
 
 | Variable | H (Horizontal Index) | V (Vertical Index) | R (Replicate Index) | Explanation |
 |----------|----------------------|----------------------|----------------------|-------------|
-| SWC_1_1_1 | 1 | 1 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_1_2_1 | 1 | 2 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_1_3_1 | 1 | 3 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_1_4_1 | 1 | 4 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
+| SWC_1_1_1 | 1 | 1 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_1_2_1 | 1 | 2 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_1_3_1 | 1 | 3 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_1_4_1 | 1 | 4 | 1 | Soil water content (volumetric), range 0-100% |
 | SWC_PI_1_N | PI | 1 | N | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
 | SWC_PI_1_SD | PI | 1 | SD | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_2_1_1 | 2 | 1 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_2_2_1 | 2 | 2 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_2_3_1 | 2 | 3 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
+| SWC_2_1_1 | 2 | 1 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_2_2_1 | 2 | 2 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_2_3_1 | 2 | 3 | 1 | Soil water content (volumetric), range 0-100% |
 | SWC_2_4_1 | 2 | 4 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
 | SWC_PI_2_N | PI | 2 | N | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
 | SWC_PI_2_SD | PI | 2 | SD | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_3_1_1 | 3 | 1 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
-| SWC_3_2_1 | 3 | 2 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
+| SWC_3_1_1 | 3 | 1 | 1 | Soil water content (volumetric), range 0-100% |
+| SWC_3_2_1 | 3 | 2 | 1 | Soil water content (volumetric), range 0-100% |
 | SWC_3_3_1 | 3 | 3 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
 | SWC_3_4_1 | 3 | 4 | 1 | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
 | SWC_PI_3_N | PI | 3 | N | Three-index positional qualifier representing Horizontal position, Vertical position, and Replicate index. |
