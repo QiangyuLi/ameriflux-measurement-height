@@ -1,7 +1,12 @@
-# Variable Information
+# Variable Description and Explanation
 
-This document explains the structure and meaning of the provided variable names based on FLUXNET guidelines. 
-For reference, see [FLUXNET Data Variables](https://fluxnet.org/data/aboutdata/data-variables/).
+This document provides a detailed explanation of the variables related to soil water content (SWC) and their positional qualifiers.
+
+## Data Source
+
+- Citation: [FLUXNET Data Variables](https://fluxnet.org/data/aboutdata/data-variables/)
+- Citation: [GitHub Repository - Open-ET/flux-data-qaqc](https://github.com/Open-ET/flux-data-qaqc/blob/b22ce2e71f75f3eba20139fcfdbf08c25e0f7107/examples/Config_options/config_for_multiple_soil_vars.ini#L145)
+
 
 ## Explanation of Variable Structure
 
